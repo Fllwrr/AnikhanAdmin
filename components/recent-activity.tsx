@@ -28,7 +28,7 @@ const recentActivities = [
   {
     user: "Eve",
     action: "bir kullanıcıyı engelledi",
-    user: "TrollUser123",
+    category: "TrollUser123",
     time: "1 gün önce",
   },
 ]
